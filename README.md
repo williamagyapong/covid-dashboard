@@ -1,2 +1,2 @@
-# covid-dashboard
-A dashboard created with R Shiny to provide users users the flexibility to understand trends in COVID-19 confirmed cases and deaths
+# COVID-19 Dashboard
+A dashboard created with R Shiny to provide users the flexibility to interact with different visualizations revealing the distribution and trends in COVID-19 confirmed cases and deaths.
